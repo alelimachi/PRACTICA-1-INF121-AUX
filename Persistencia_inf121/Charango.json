@@ -1,0 +1,242 @@
+[
+    {
+        "material": "Cedro",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Cedro",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Cedro",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Cedro",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Cedro",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Nogal",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Nogal",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Nogal",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Nogal",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Nogal",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "material": "Roble",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Roble",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Roble",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Roble",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Roble",
+        "nrocuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    }
+]

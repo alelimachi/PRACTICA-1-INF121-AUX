@@ -1,0 +1,1 @@
+[{"nombre":"manuel","nivel":2,"puntaje":12},{"nombre":"ale","nivel":14,"puntaje":1445},{"nombre":"Manuel","nivel":2,"puntaje":10},{"nombre":"Anahi","nivel":15,"puntaje":123},{"nombre":"Alex","nivel":13,"puntaje":167},{"nombre":"Alejandro","nivel":12,"puntaje":767},{"nombre":"ana","nivel":123,"puntaje":4},{"nombre":"Miguel","nivel":12,"puntaje":143}]

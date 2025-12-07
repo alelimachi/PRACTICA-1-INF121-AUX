@@ -1,0 +1,1 @@
+{"zoos": [{"id": 1, "nombre": "La Paz", "animales": [{"especie": "Felino", "nombre": "Tigre", "cantidad": 2}, {"especie": "Ave", "nombre": "Aguila", "cantidad": 5}, {"especie": "Reptil", "nombre": "Iguana", "cantidad": 3}]}, {"id": 2, "nombre": "Santa Cruz", "animales": []}]}

@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "juan",
+        "carnet": 101,
+        "salario": 2500
+    },
+    {
+        "nombre": "juan",
+        "carnet": 101,
+        "salario": 2500
+    },
+    {
+        "nombre": "juan",
+        "carnet": 101,
+        "salario": 2500
+    },
+    {
+        "nombre": "juan",
+        "carnet": 9156253,
+        "salario": 2500
+    },
+    {
+        "nombre": "pedro",
+        "carnet": 103,
+        "salario": 2800
+    },
+    {
+        "nombre": "pedro",
+        "carnet": 103,
+        "salario": 2800
+    },
+    {
+        "nombre": "pedro",
+        "carnet": 103,
+        "salario": 2800
+    },
+    {
+        "nombre": "pedro",
+        "carnet": 9165627,
+        "salario": 2800
+    },
+    {
+        "nombre": "maria",
+        "carnet": 10929212,
+        "salario": 3100
+    },
+    {
+        "nombre": "maria",
+        "carnet": 102,
+        "salario": 3700
+    },
+    {
+        "nombre": "maria",
+        "carnet": 102,
+        "salario": 4000
+    },
+    {
+        "nombre": "maria",
+        "carnet": 102,
+        "salario": 4300
+    }
+]

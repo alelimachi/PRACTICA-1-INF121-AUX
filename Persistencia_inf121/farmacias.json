@@ -1,0 +1,73 @@
+{
+    "farmacias": [
+        {
+            "nombre": "farmaciaChavez",
+            "sucursal": 2,
+            "direccion": "Av Buenos Aires calle 6",
+            "medicamentos": [
+                {
+                    "id": 4989,
+                    "nom": "aspirina",
+                    "tipo": "dolor",
+                    "precio": 9
+                },
+                {
+                    "id": 5675,
+                    "nom": "tapsin",
+                    "tipo": "tos",
+                    "precio": 24
+                },
+                {
+                    "id": 6123,
+                    "nom": "respira",
+                    "tipo": "tos",
+                    "precio": 20
+                }
+            ]
+        },
+        {
+            "nombre": "Farmacorp",
+            "sucursal": 3,
+            "direccion": "av. 6 de Marzo calle 3",
+            "medicamentos": [
+                {
+                    "id": 7786,
+                    "nom": "loratadina",
+                    "tipo": "alergia",
+                    "precio": 15
+                },
+                {
+                    "id": 8876,
+                    "nom": "jarabex",
+                    "tipo": "tos",
+                    "precio": 17
+                },
+                {
+                    "id": 5654,
+                    "nom": "tapsin",
+                    "tipo": "tos",
+                    "precio": 25
+                },
+                {
+                    "id": 2878,
+                    "nom": "jarabex",
+                    "tipo": "tos",
+                    "precio": 18
+                }
+            ]
+        },
+        {
+            "nombre": "FarmaciaBolivia",
+            "sucursal": 1,
+            "direccion": "av. Arce ",
+            "medicamentos": [
+                {
+                    "id": 3876,
+                    "nom": "antidol",
+                    "tipo": "dolor",
+                    "precio": 12.5
+                }
+            ]
+        }
+    ]
+}

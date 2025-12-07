@@ -1,0 +1,62 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "cuerda",
+        "precio": 15.0
+    },
+    {
+        "codigo": 2,
+        "nombre": "caja",
+        "precio": 120.0
+    },
+    {
+        "codigo": 3,
+        "nombre": "p\u00faa",
+        "precio": 5.0
+    },
+    {
+        "codigo": 1,
+        "nombre": "cuerda",
+        "precio": 15.0
+    },
+    {
+        "codigo": 2,
+        "nombre": "caja",
+        "precio": 120.0
+    },
+    {
+        "codigo": 3,
+        "nombre": "p\u00faa",
+        "precio": 5.0
+    },
+    {
+        "codigo": 1,
+        "nombre": "cuerda",
+        "precio": 15.0
+    },
+    {
+        "codigo": 2,
+        "nombre": "caja",
+        "precio": 120.0
+    },
+    {
+        "codigo": 3,
+        "nombre": "p\u00faa",
+        "precio": 5.0
+    },
+    {
+        "codigo": 1,
+        "nombre": "cuerda",
+        "precio": 15.0
+    },
+    {
+        "codigo": 2,
+        "nombre": "caja",
+        "precio": 120.0
+    },
+    {
+        "codigo": 3,
+        "nombre": "lana",
+        "precio": 5.0
+    }
+]
